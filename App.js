@@ -11,6 +11,8 @@ export default class App extends Component {
         }}>
         <View style={{width: 50, height: 50, backgroundColor: 'powderblue'}} />
         <View style={{width: 50, height: 50, backgroundColor: 'powderblue'}} />
+
+        <View style={{width: 50, height: 50, backgroundColor: 'powderblue'}} />
       </View>
     );
   }
