@@ -48,7 +48,7 @@ export default class App extends Component {
             <Text style={Styles.match}>98%Match</Text>
             <Text style={Styles.year}>2019</Text>
             <Text style={Styles.age}>18+</Text>
-            <Text style={Styles.season}>6 Seasons</Text>
+            <Text style={Styles.season}>7 Seasons</Text>
             <Text style={Styles.hd}>hd</Text>
           </View>
           <View style={Styles.trendingview}>
