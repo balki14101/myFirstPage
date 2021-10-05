@@ -10,7 +10,7 @@ Consists of a single screen with a Image and few Buttons.
 
 
 ## Download APK
-Download and try this APK from [here](https://i.diawi.com/tssgKx)
+Download and try this APK from [here](https://i.diawi.com/drc5Ba)
 
 ## To Run in VSCode
 Follow the commands below
