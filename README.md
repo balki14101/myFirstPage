@@ -10,7 +10,7 @@ Consists of a single screen with a Image and few Buttons.
 
 
 ## Download APK
-Download and try this APK from [here](https://i.diawi.com/drc5Ba)
+Download and try this APK from [here](https://github.com/balki14101/myFirstPage/releases/tag/v1.0)
 
 ## To Run in VSCode
 Follow the commands below
